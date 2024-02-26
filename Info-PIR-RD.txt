@@ -1,0 +1,1 @@
+Ciao, 26.02.24, la cartella PIR-RD (master) nasce come clone locale di un repository remoto (in realtà locale) posto su C:\Users\F.Cosmo\Documents\GitPIRRD\PIR-RD (origin) che a sua volta è un clone di PIR-RD su gitfs.
